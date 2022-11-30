@@ -5,3 +5,5 @@ deployed on gorerli
 
 surge link :
 https://nondescript-shelf.surge.sh/
+
+attaching contract files as etherscan api and flattner extensions are not working in remix 
